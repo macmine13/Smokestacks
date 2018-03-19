@@ -1,6 +1,6 @@
 ## An Engineer-centric Minecraft Server
 
-_Server Address:_ minecraft2018.bounceme.net
+_Server Address:_ **minecraft2018.bounceme.net**
 
 
 
@@ -8,12 +8,20 @@ _Server Address:_ minecraft2018.bounceme.net
 
 Smokestacks is a modded server and you need FORGE to use the mods.
 
-1. Download and Install Forge HERE.
-2. Download required mods HERE.
+1. Download and Install Forge [HERE]().
+2. Download the required mods [HERE].() _(zip)_
+
 _Be sure to place the mods inside your "mods" folder inside your ".minecraft" folder like this:
 
 **Creating a mods folder**
+
+
 ![Image](img/mods.gif)
+
+
+
+
+##ENJOY!##
 
 
 
