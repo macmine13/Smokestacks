@@ -16,12 +16,12 @@ _Be sure to place the mods inside your "mods" folder inside your ".minecraft" fo
 **Creating a mods folder**
 
 
-![Image](img/mods.gif)
+![Image](img/minecraft-mods.gif)
 
 
 
 
-##ENJOY!##
+##ENJOY!
 
 
 
