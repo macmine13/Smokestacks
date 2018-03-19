@@ -3,7 +3,9 @@
 _Server Address:_ **minecraft2018.bounceme.net**
 
 
-##MOD PACK UPDATED (v1.1) 
+**MOD PACK UPDATED (v1.1)**
+
+
 [DOWNLOAD](https://github.com/macmine13/Smokestacks/releases/download/v1.1/smokestacks-mp1.1.zip)
 3/18/18
 
